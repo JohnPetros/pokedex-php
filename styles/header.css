@@ -1,0 +1,11 @@
+header .logo {
+  width: 40%;
+}
+
+header .title {
+  margin: 15px 0;
+  font-size: 3.3rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  text-shadow: 3px 3px var(--secondary-color);
+}

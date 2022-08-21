@@ -1,0 +1,114 @@
+.cards-container {
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    padding: 20px 15px;
+}
+
+.card-pokemon {
+    font-size: 1.5rem;
+    width: 380px;
+    max-height: 500px;
+}
+
+.card-pokemon .card-header {
+    font-size: 1.2rem;
+    width: 100%;
+    height: 250px;
+    padding: 20px 40px 0;
+    color: var(--color-base-1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.card-pokemon .card-header .card-pokemon-name {
+    width: 100%;
+    color: var(--text-color-1);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.card-pokemon .card-header .pokemon-type {
+    width: 100%;
+}
+
+.card-pokemon .card-header .pokemon-type span {
+    background-color: white;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding: 2px 10px;
+    box-shadow: #64646f33 0px 7px 29px 0px; 
+    color: var(--color-base-2);
+}
+
+.card-pokemon .card-header .pokemon-image {
+    width: 250px;
+    height: 250px;
+    transition: all 2s ease;
+}
+
+.card-pokemon .card-header .pokemon-image img {
+    width: 100%;
+    
+}
+
+.card-pokemon .pokemon-info {
+    padding: 80px 40px 20px;
+    background-color: var(--color-base-1);
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .card-pokemon .pokemon-info .pokemon-status {
+    
+}
+
+.card-pokemon .pokemon-info .pokemon-skills {
+    
+} */
+
+.electric-type {
+    background-color: var(--electric-type);
+}
+
+.water-type {
+    background-color: var(--water-type);
+}
+
+.fire-type {
+    background-color: var(--fire-type);
+}
+
+.grass-type {
+    background-color: var(--grass-type);
+}
+
+.ground-type {
+    background-color: var(--ground-type);
+}
+
+.dark-type {
+    background-color: var(--dark-type);
+}
+
+.fighting-type {
+    background-color: var(--fighting-type);
+}
+
+.poison-type {
+    background-color: var(--poison-type);
+}
+
+.psychic-type {
+    background-color: var(--psychic-type);
+}
+
+.flying-type {
+    background-color: var(--flying-type);
+}

@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #FFCB05;
+    --secondary-color: #3D7DCA;
+    --pokemon-box: #e90a0a;
+    --color-base-1: white;
+    --color-base-2: black;
+
+    --electric-type: #FCC719;
+    --water-type: #76BEFE;
+    --fire-type: #E55053;
+    --grass-type: #42ac93;
+    --ground-type: #834c44;
+    --dark-type: #BA68C8;
+    --fighting-type: #737FA1;
+    --poison-type: #51618A;
+    --psychic-type: #C4766C;
+    --flying-type: #FF9900;
+}
