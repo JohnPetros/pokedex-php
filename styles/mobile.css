@@ -1,0 +1,10 @@
+@media (width: 430px) {
+    header .logo {
+        width: 15%;
+    }
+
+    .card-pokemon {
+    width: 340px;
+
+    }
+}

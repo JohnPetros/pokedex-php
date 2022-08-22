@@ -1,7 +1,3 @@
-html {
-    font-size: 62.5%;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -9,6 +5,10 @@ html {
     list-style: none;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
 }
 
 body {
@@ -54,4 +54,13 @@ header {
 
 .button:hover {
     transform: scale(1.1);
+}
+
+.error-message {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    padding: 10px;
+    font-size: 3rem;
+    border-radius: 5px;
+    text-align: center;
 }

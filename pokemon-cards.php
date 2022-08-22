@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="styles/colors.css?v=<?php echo time(); ?>" />
   <link rel="stylesheet" href="styles/header.css?v=<?php echo time(); ?>" />
   <link rel="stylesheet" href="styles/pokemon-card.css?v=<?php echo time(); ?>" />
+  <link rel="stylesheet" href="styles/mobile.css?v=<?php echo time(); ?>">
 </head>
 
 <body>
@@ -359,6 +360,24 @@
       </div>
     </div>';
     }
+
+    if (
+      !isset($_POST['pikachu']) &&
+      !isset($_POST['bulbasauro']) &&
+      !isset($_POST['charmander']) &&
+      !isset($_POST['gyarados']) &&
+      !isset($_POST['gendar']) &&
+      !isset($_POST['dragonite']) &&
+      !isset($_POST['dugtrio']) &&
+      !isset($_POST['koffing']) &&
+      !isset($_POST['alakazam']) 
+      ) {
+        echo '
+        <div class="error-message">
+          Você não selecionou nenhum pokémon!
+        </div>
+        ';
+      }
     ?>
   </main>
 </body>

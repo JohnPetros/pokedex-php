@@ -5,12 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokedex</title>
-    <link rel="stylesheet" href="./styles/global.css">
+    <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/header.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="/styles/pokemons.css?v=<?php echo time(); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/pokemons.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/colors.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="styles/mobile.css?v=<?php echo time(); ?>">
 </head>
 <body>
     
