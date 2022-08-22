@@ -27,9 +27,6 @@ A página inicial contém 9 checkboxes estilizados com o nome e imagem de 9 poke
 ## 📖 O que eu aprendi durante o desenvolvimento
 O intuito do desenvolvimento desse projeto foi assimilar melhor o conceito de renderização condicional em PHP, que foi abordado em sala de aula na Etec. Com esse projeto, pude trabalhar melhor com separação de arquivos CSS para melhorar a organização dos estilos dos elementos 
 
-<br>
-
-
 ## 🛠️ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
