@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" width="700">
-![Pokedex_-_Google_Chrome_2022-08-21_21-50-31_AdobeExpress](https://user-images.githubusercontent.com/93893533/185819846-af4c2365-5209-4d13-9310-58a800ab5bc6.gif)
+<img  width="700" src="https://user-images.githubusercontent.com/93893533/185819846-af4c2365-5209-4d13-9310-58a800ab5bc6.gif" />
 </p>
 
 
