@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="styles/pokemons.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/colors.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/mobile.css?v=<?php echo time(); ?>">
+    <link rel="shortcut icon" href="./images/Poké_Ball_icon.svg.png" type="image/x-icon">
 </head>
 <body>
     

@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="styles/header.css?v=<?php echo time(); ?>" />
   <link rel="stylesheet" href="styles/pokemon-card.css?v=<?php echo time(); ?>" />
   <link rel="stylesheet" href="styles/mobile.css?v=<?php echo time(); ?>">
+  <link rel="shortcut icon" href="./images/Poké_Ball_icon.svg.png" type="image/x-icon">
+
 </head>
 
 <body>
