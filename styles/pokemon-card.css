@@ -14,7 +14,7 @@
 }
 
 .card-pokemon .card-header {
-    transition: all 1.2s ease-in-out;
+    transition: all 1s ease-in-out;
     font-size: 1.2rem;
     width: 100%;
     height: 250px;
