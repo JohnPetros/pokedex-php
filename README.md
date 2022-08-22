@@ -2,7 +2,7 @@
   Pokédex
 </h1>
 
-![Mentalista - Google Chrome 12_08_2022 16_08_53](https://user-images.githubusercontent.com/93893533/184433131-1b38ad76-1587-4f7f-9610-7054e69c859a.png)
+![Pokedex_-_Google_Chrome_2022-08-21_21-50-31_AdobeExpress](https://user-images.githubusercontent.com/93893533/185819846-af4c2365-5209-4d13-9310-58a800ab5bc6.gif)
 
 
 <br />
@@ -11,7 +11,7 @@
 
 Projeto de uma mini pokédex com 9 pokémons feita em PHP.
 
- <h3 align="center"><a target="_blank" href="https://mentalist-php.herokuapp.com/">Veja o jogo funcionando 👀</a></h3>
+ <h3 align="center"><a target="_blank" href="https://pokedex-php-joaopedro.herokuapp.com/index.php">Veja o jogo funcionando 👀</a></h3>
 
 <hr>
 <br>
