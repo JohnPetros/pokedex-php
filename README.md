@@ -2,7 +2,7 @@
   Pokédex
 </h1>
 
-<p align="center" width="700">
+<p align="center" width="400">
 <img  width="700" src="https://user-images.githubusercontent.com/93893533/185819846-af4c2365-5209-4d13-9310-58a800ab5bc6.gif" />
 </p>
 
