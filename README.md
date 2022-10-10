@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - CSS
 - HTML
 
-## :memo: Licença
+## :memo: Licenca
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
