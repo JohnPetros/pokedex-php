@@ -57,7 +57,7 @@ header {
 }
 
 .error-message {
-    background-color: var(--secondary-color);
+    background-color: var(--secondary-color)
     color: var(--primary-color);
     padding: 10px;
     font-size: 3rem;
