@@ -38,8 +38,6 @@ Projeto de uma mini **pokédex** com 9 pokémons feita em PHP. Projeto desenvolv
 <img  width="700" src="https://user-images.githubusercontent.com/93893533/185820970-d1a68d4b-bbf5-4bbd-b9cc-f57d4ee9af98.gif" />
 </p>
 
-<hr>
-
 ---
 
 ## ✨ Funcionalidades
@@ -55,7 +53,6 @@ Projeto de uma mini **pokédex** com 9 pokémons feita em PHP. Projeto desenvolv
 - Include de arquivos PHP
 - Separação de estilização CSS para melhor organização do projeto
 - Variáveis CSS
-- Adição de efeitos visuais com JS
 
 ---
 ## 🛠️ Tecnologias
