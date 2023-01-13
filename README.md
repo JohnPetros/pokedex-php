@@ -2,10 +2,23 @@
   Pokédex - PHP
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/last%20commit-october-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-success"/>
-</p>
+<div align="center">
+   <a href="https://github.com/JohnPetros">
+      <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-yellow">
+   </a>
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/memory-game">
+   <a href="https://github.com/JohnPetros/memory-game/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/memory-game">
+   </a>
+  </a>
+   </a>
+   <a href="https://github.com/JohnPetros/memory-game/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/memory-game">
+   </a>
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/memory-game?style=social">
+</div>
+
+<br>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,13 +28,10 @@
   <a href="#-licenca">Licenca</a>
 </p>
 
-<h3 align="center"> 
-🚧  Finalizado  🚧
-</h3>
 
 ## 💻 Projeto
 
-Projeto de uma mini pokédex com 9 pokémons feita em PHP.
+Projeto de uma mini **pokédex** com 9 pokémons feita em PHP. Projeto desenvolvido com o intuito de praticar a passagem de dados entre diferentes páginas e renderização condicional usando PHP.
 
 ## ✅ Demonstração
 <p align="center">
@@ -30,13 +40,16 @@ Projeto de uma mini pokédex com 9 pokémons feita em PHP.
 
 <hr>
 
-## 🔗 Funcionalidades
-- Listar pokémons
-- Usuário pode selecionar um ou mais pokémons
-- Exibir informações dos pokémons selecionados em uma outra página
-- Avisar ao usuário caso não tenha selecionado nenhum pokémon
-- Responsivo
+---
 
+## ✨ Funcionalidades
+- [x] Listar pokémons
+- [x] Usuário pode selecionar um ou mais pokémons
+- [x] Exibir informações dos pokémons selecionados em uma outra página
+- [x] Avisar ao usuário caso não tenha selecionado nenhum pokémon
+- [x] Layout responsivo
+
+---
 ## 📖 Aprendizado
 - Renderização condicional em PHP
 - Include de arquivos PHP
@@ -44,18 +57,24 @@ Projeto de uma mini pokédex com 9 pokémons feita em PHP.
 - Variáveis CSS
 - Adição de efeitos visuais com JS
 
-## 🚀 Tecnologias
+---
+## 🛠️ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
-- PHP
-- Javascript
-- CSS
-- HTML
+✔️ **[PHP](https://www.php.net/)**
 
-## :memo: Licenca
+✔️ **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+
+✔️ **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+
+✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+
+## 📝 Licenca
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com 💜 by João Pedro 👋🏻
+<p align="center">
+   Feito com 💜 by João Pedro 👋🏻
+</p>
