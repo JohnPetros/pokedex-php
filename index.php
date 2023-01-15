@@ -20,7 +20,7 @@
         <h1 class="title">Selecione seus Pokémons</h1>
     </header>
 
-    <form class="pokedex" method="post" action="render-pokemons.php">
+    <form id="pokedex-form" class="pokedex" method="post" action="render-pokemons.php">
         <label class="pokemon">
             <img src="images/cabeca-pikachu.png" class="pokemon-head" alt="">
             <span class="pokemon-name">Pikachu</span>
