@@ -27,8 +27,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licenca">Licenca</a>
 </p>
-
-
 ## 💻 Projeto
 
 Projeto de uma mini **pokédex** com 9 pokémons feita em PHP. Projeto desenvolvido com o intuito de praticar a passagem de dados entre diferentes páginas e renderização condicional usando PHP.
