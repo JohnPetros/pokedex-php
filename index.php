@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="styles/header.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="/styles/pokemons.css?v=<?php echo time(); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles/pokemons.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/colors.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/mobile.css?v=<?php echo time(); ?>">
     <link rel="shortcut icon" href="./images/Poké_Ball_icon.svg.png" type="image/x-icon">
@@ -21,7 +20,7 @@
         <h1 class="title">Selecione seus Pokémons</h1>
     </header>
 
-    <form class="pokedex" method="post" action="pokemon-cards.php">
+    <form class="pokedex" method="post" action="render-pokemons.php">
         <label class="pokemon">
             <img src="images/cabeca-pikachu.png" class="pokemon-head" alt="">
             <span class="pokemon-name">Pikachu</span>
@@ -67,8 +66,8 @@
             <span class="pokemon-name">Alakazam</span>
             <input type="checkbox" class="pokemon-check" name="alakazam" id="">
         </label>
-        <button class="button" type="submit" id="pokedex">Enviar</button>
     </form>
+    <button class="button" type="submit" id="pokedex" form="pokedex-form">Enviar</button>
 
     <script src="js/main.js"></script>
 </body>
